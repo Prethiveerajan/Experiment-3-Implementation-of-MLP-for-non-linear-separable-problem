@@ -117,6 +117,7 @@ predict(w1,w2,test)
 
  ## OUTPUT :
 ![output](o1.png)
+
 ![output](o2.png)
 
 ## RESULT:
